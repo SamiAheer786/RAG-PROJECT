@@ -1,7 +1,6 @@
 """
 Part 4: Streamlit User Interface
 Medical FAQ Assistant RAG System
-NUCES Chiniot-Faisalabad Campus
 
 Run with:  streamlit run src/app.py
 """

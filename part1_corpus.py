@@ -1,7 +1,6 @@
 """
 Part 1: Corpus Preparation and Chunking
 Medical FAQ Assistant RAG System
-NUCES Chiniot-Faisalabad Campus
 """
 
 import os
